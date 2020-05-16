@@ -1,6 +1,7 @@
 ## Erick Jensen
 * [LinkedIn](https://www.linkedin.com/in/erick-jensen-546069136)
 * [Github](https://github.com/ErickDJensen)
+* [Resume](https://docs.google.com/document/d/1wh4ZGgGvXGLOV-cEASPS-v7T9CFN9pz_nYzzNzAPjcM/edit?usp=sharing)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ErickDJensen/ErickDJensen.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
